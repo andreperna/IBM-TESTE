@@ -1,0 +1,4 @@
+applications:
+    - name: cdci
+      memory: 64M
+      buildpack: sdk-for-nodejs
